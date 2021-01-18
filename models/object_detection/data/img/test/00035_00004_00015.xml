@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>00035_00004_00015.png</filename>
+	<path>C:\TensorFlow\workspace\training_demo\images\test\00035_00004_00015.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>36</width>
+		<height>38</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>One way</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>7</ymin>
+			<xmax>34</xmax>
+			<ymax>36</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00012_00011_00027.png</filename>
+	<path>C:\TensorFlow\workspace\training_demo\images\train\00012_00011_00027.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>119</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>priority</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>10</ymin>
+			<xmax>110</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>
