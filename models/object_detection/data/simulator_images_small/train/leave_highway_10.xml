@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>leave_highway</folder>
+	<filename>leave_highway_10.jpg</filename>
+	<path>/home/costintudi/Documents/startup_workspace/train_database_simulator/leave_highway/leave_highway_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leave_highway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>110</ymin>
+			<xmax>498</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
