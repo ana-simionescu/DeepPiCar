@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>stop</folder>
+	<filename>stop_36.jpg</filename>
+	<path>/home/costintudi/Documents/startup_workspace/train_database_simulator/stop/stop_36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>113</ymin>
+			<xmax>494</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

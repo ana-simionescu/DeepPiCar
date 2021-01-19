@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>obstacle_car</folder>
+	<filename>obstacle_car_18.jpg</filename>
+	<path>/home/costintudi/Documents/startup_workspace/train_database_simulator/obstacle_car/obstacle_car_18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>obstacle_car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>148</ymin>
+			<xmax>467</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

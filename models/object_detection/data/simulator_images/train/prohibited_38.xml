@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>prohibited</folder>
+	<filename>capture_38.jpg</filename>
+	<path>/home/costintudi/Documents/startup_workspace/train_database_simulator/prohibited/capture_38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prohibited</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>121</ymin>
+			<xmax>290</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>enter_highway</folder>
+	<filename>enter_highway_43.jpg</filename>
+	<path>/home/costintudi/Documents/startup_workspace/train_database_simulator/enter_highway/enter_highway_43.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
