@@ -1,0 +1,4 @@
+0 No-entry
+1 One way
+2 priority
+3 stop
