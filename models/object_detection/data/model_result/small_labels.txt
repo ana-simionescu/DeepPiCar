@@ -1,0 +1,14 @@
+0 crosswalk
+1 enter_highway
+2 green_light
+3 leave_highway
+4 obstacle_car
+5 oneway
+6 parking
+7 pedestrian
+8 priority
+9 prohibited
+10 red_light
+11 roundabout
+12 stop
+13 yellow_light
